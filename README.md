@@ -23,7 +23,7 @@ The training and testing split is established using probability and random sampl
 
 ## Model Fit Assessment
 
-McFaddens R^2 score test was used to assess the models fit with a score of > 0.4 indication a good model fit 
+McFaddens R^2 score test was used to assess the models fit with a score of > 0.4 indicating a good model fit 
 
 ## Summary and Conclusions 
 
